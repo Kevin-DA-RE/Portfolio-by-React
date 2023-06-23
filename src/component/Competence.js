@@ -1,6 +1,5 @@
-function Competence(){
-    return <h1>Compétences</h1>
+function Competence() {
+  return <h1>Compétences</h1>;
 }
 
-
-export default Competence
+export default Competence;

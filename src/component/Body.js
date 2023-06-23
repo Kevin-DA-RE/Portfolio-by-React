@@ -1,14 +1,9 @@
-import Experience from './Experience';
-import Competence from './Competence';
-
-function Body(){
-    return (
-        <div>
-<Experience />
-<Competence />
+function Body() {
+  return (
+    <div>
+      <h1>Ici c'est le body</h1>
     </div>
-    )
-    
+  );
 }
 
 export default Body;
