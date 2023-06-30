@@ -1,7 +1,6 @@
 
 .logo {
-    height: 40vmin;
-    pointer-events: none;
+    height: 10vmin;
   }
   
   @media (prefers-reduced-motion: no-preference) {
@@ -12,11 +11,11 @@
   
   .header {
     background-color: #282c34;
-    min-height: 50vh;
+    height: 10vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     font-size: calc(10px + 2vmin);
     color: white;
   }

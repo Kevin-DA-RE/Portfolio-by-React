@@ -1,0 +1,13 @@
+
+.bio-background {
+    background-color: #52EEE9;
+    min-height: 10vh;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .p-bio {
+    color: #286B69;
+  }
+  
